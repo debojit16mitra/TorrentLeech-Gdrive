@@ -38,7 +38,19 @@ async def help_message_f(client, message):
     #message_id = 99
     # display the /help
     
-    await message.reply_text("""Join this Channel forr help-- @lkhitech\n\n Contac me: <a href="https://t.me/kavinduaj">REAPERS</a>""", disable_web_page_preview=True)
+    await message.reply_text("""
+    
+   **Welcome To 💠◥ ƛԼԼ ƖƝ ƠƝЄ ƤԼƛƬƑƠƦM(2) ◤💠 Group more info** @kavinduaj
+    
+   ⚙️ **Services you can get through these bot** 🤖
+    
+        🧲 _Torrent file Leech_
+        🧲 _Youtube Video Download
+        🧲 _Others DL file Download
+        🧲 _<a href="https://allinone.darkkali614.workers.dev/0:/">Team Driver Supported</a>
+    
+    
+    """, disable_web_page_preview=True)
 
 
 # async def rename_message_f(client, message):
