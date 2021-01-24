@@ -14,6 +14,7 @@ class Config(Config):
     PYTDL_COMMAND_G = "pytdl"
     DESTINATION_FOLDER = "Download"
     LEECH_COMMAND = "leech@torlechlkbot"
+    INDEX_LINK = "https://allinone.darkkali614.workers.dev/0:/"
     RCLONE_CONFIG = """
 [kmac]
 type = drive
