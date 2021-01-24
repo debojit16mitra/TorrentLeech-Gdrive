@@ -11,6 +11,7 @@ class Config(Config):
     OWNER_ID = 1156597097
     AUTH_CHANNEL = [-1001377338298]
     DESTINATION_FOLDER = "Download" #Name of your folder read readme(not id of the folder)
+    INDEX_LINK = "https://allinone.darkkali614.workers.dev/0:/"
     RCLONE_CONFIG = """
 [kmac]
 type = drive
