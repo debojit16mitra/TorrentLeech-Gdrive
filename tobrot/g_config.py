@@ -9,7 +9,7 @@ class Config(Config):
     APP_ID = 1733305
     API_HASH = "f423cffca6b5b7247b31b5b0df61f48d"
     OWNER_ID = 1156597097
-    AUTH_CHANNEL = [-1001377338298]
+    AUTH_CHANNEL = [-1001266398622]
     DESTINATION_FOLDER = "Download" #Name of your folder read readme(not id of the folder)
     INDEX_LINK = "https://allinone.darkkali614.workers.dev/0:/"
     RCLONE_CONFIG = """
