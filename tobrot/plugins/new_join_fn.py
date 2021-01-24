@@ -44,9 +44,9 @@ async def help_message_f(client, message):
     
    ⚙️ **Services you can get through these bot** 🤖
     
-        🧲 _Torrent file Leech_
-        🧲 _Youtube Video Download
-        🧲 _Others DL file Download
+        🧲 _*Torrent file Leech*
+        🧲 _*Youtube Video Download*
+        🧲 _*Others DL file Download*
         🧲 _<a href="https://allinone.darkkali614.workers.dev/0:/">Team Driver Supported</a>
     
     
