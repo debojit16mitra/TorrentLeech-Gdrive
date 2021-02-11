@@ -3,18 +3,18 @@ from tobrot.sample_config import Config
 #read readme too before filling these stuffs
 
 class Config(Config):
-    TG_BOT_TOKEN= "1581011965:AAEy7O3dQwbgs-v5gvraHpQ5AAJ3GaVrH08" #imp
-    APP_ID = 1733305 #imp
-    API_HASH = "f423cffca6b5b7247b31b5b0df61f48d" #imp
-    AUTH_CHANNEL = [-1001266398622, 1156597097] #imp replace your_id with your id from telegram or delete
-    GLEECH_COMMAND = "gleech@torlechlkbot"
+    TG_BOT_TOKEN= "1622073183:AAFEVcuHUpMQk7TzpcI1imadeq8YC4WyIY8" #imp
+    APP_ID = 2776597 #imp
+    API_HASH = "2c0b3f7d9e283b9c6f5e60bcf063fdb4" #imp
+    AUTH_CHANNEL = [-1001305859685, 998646192] #imp replace your_id with your id from telegram or delete
+    GLEECH_COMMAND = "mirror@torlechlkbot"
     YTDL_COMMAND = 'ytdl@torlechlkbot'
-    TELEGRAM_LEECH_COMMAND_G = "tleech@torlechlkbot"
+    TELEGRAM_LEECH_COMMAND_G = "teleleech@torlechlkbot"
     CLONE_COMMAND_G = "gclone"
     PYTDL_COMMAND_G = "pytdl"
     DESTINATION_FOLDER = "Download"
     LEECH_COMMAND = "leech@torlechlkbot"
-    INDEX_LINK = "https://allinone.darkkali614.workers.dev/0:"
+    INDEX_LINK = "https://testing.bunny.workers.dev/0:"
     RCLONE_CONFIG = """
 [kmac]
 type = drive
