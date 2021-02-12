@@ -10,8 +10,8 @@ class Config(Config):
     GLEECH_COMMAND = "gleech@suskeleechbot"
     YTDL_COMMAND = 'ytdl@suskeleechbot'
     TELEGRAM_LEECH_COMMAND_G = "tleech@suskeleechbot"
-    CLONE_COMMAND_G = "gclone@suskeleechbot"
-    PYTDL_COMMAND_G = "pytdl@suskeleechbot"
+    CLONE_COMMAND_G = ""
+    PYTDL_COMMAND_G = ""
     DESTINATION_FOLDER = "Download"
     LEECH_COMMAND = "leech@suskeleechbot"
     INDEX_LINK = "https://testing.bunny.workers.dev/0:/Download"
