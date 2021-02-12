@@ -7,14 +7,14 @@ class Config(Config):
     APP_ID = 2776597 #imp
     API_HASH = "2c0b3f7d9e283b9c6f5e60bcf063fdb4" #imp
     AUTH_CHANNEL = [-1001305859685, 998646192] #imp replace your_id with your id from telegram or delete
-    GLEECH_COMMAND = "gleech@torlechlkbot"
-    YTDL_COMMAND = 'ytdl@torlechlkbot'
-    TELEGRAM_LEECH_COMMAND_G = "tleech@torlechlkbot"
-    CLONE_COMMAND_G = "gclone"
-    PYTDL_COMMAND_G = "pytdl"
+    GLEECH_COMMAND = "gleech@suskeleechbot"
+    YTDL_COMMAND = 'ytdl@suskeleechbot'
+    TELEGRAM_LEECH_COMMAND_G = "tleech@suskeleechbot"
+    CLONE_COMMAND_G = "gclone@suskeleechbot"
+    PYTDL_COMMAND_G = "pytdl@suskeleechbot"
     DESTINATION_FOLDER = "Download"
-    LEECH_COMMAND = "leech@torlechlkbot"
-    INDEX_LINK = "https://testing.bunny.workers.dev/0:"
+    LEECH_COMMAND = "leech@suskeleechbot"
+    INDEX_LINK = "https://testing.bunny.workers.dev/0:/Download"
     RCLONE_CONFIG = """
 [BunnyDrive]
 type = drive
