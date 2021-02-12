@@ -10,7 +10,7 @@ class Config(Config):
     GLEECH_COMMAND = "gleech@suskeleechbot"
     YTDL_COMMAND = 'ytdl@suskeleechbot'
     TELEGRAM_LEECH_COMMAND_G = "tleech@suskeleechbot"
-    CLONE_COMMAND_G = ""
+    CLONE_COMMAND_G = "gclone@suskeleechbot"
     PYTDL_COMMAND_G = ""
     DESTINATION_FOLDER = "Download"
     LEECH_COMMAND = "leech@suskeleechbot"
