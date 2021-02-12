@@ -6,7 +6,7 @@ class Config(Config):
     TG_BOT_TOKEN= "1622073183:AAFEVcuHUpMQk7TzpcI1imadeq8YC4WyIY8" #imp
     APP_ID = 2776597 #imp
     API_HASH = "2c0b3f7d9e283b9c6f5e60bcf063fdb4" #imp
-    AUTH_CHANNEL = [-1001266398622, 1156597097] #imp replace your_id with your id from telegram or delete
+    AUTH_CHANNEL = [-1001305859685, 998646192] #imp replace your_id with your id from telegram or delete
     GLEECH_COMMAND = "gleech@torlechlkbot"
     YTDL_COMMAND = 'ytdl@torlechlkbot'
     TELEGRAM_LEECH_COMMAND_G = "tleech@torlechlkbot"
