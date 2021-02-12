@@ -11,7 +11,7 @@ class Config(Config):
     OWNER_ID = 998646192
     AUTH_CHANNEL = [-1001305859685]
     DESTINATION_FOLDER = "DOWNLOAD" #Name of your folder read readme(not id of the folder)
-    INDEX_LINK = "https://testing.bunny.workers.dev/0:"
+    INDEX_LINK = "https://testing.bunny.workers.dev/0:/Download"
     RCLONE_CONFIG = """
 [BunnyDrive]
 type = drive
