@@ -13,7 +13,7 @@ class Config(Config):
     DESTINATION_FOLDER = "DOWNLOAD" #Name of your folder read readme(not id of the folder)
     INDEX_LINK = "https://testing.bunny.workers.dev/0:/Download"
     RCLONE_CONFIG = """
-[BunnyDrive]
+[DRIVE]
 type = drive
 client_id = 1075453807926-4lo134sht0k6tkieusfcd73c0gk7jb3g.apps.googleusercontent.com
 client_secret = Oj8bcI-W6GR6xKQiWeaYi_q_
