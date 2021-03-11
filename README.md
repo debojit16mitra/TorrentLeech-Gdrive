@@ -22,6 +22,9 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
     ✓ Added support for youtube playlist 😐
     ✓ Renaming of Telegram files support added. 😐
     ✓
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/debojit16mitra/TorrentLeech-Gdrive/tree/master)
+
+
     
 # TO-DO
 -   ~Gdrive file clonning using Gclone~ `DONE ✓`
